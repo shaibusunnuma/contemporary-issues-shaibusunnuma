@@ -1,3 +1,21 @@
 # Contemporary Issues In Data
+In this document I discuss to article from dataversity about the rise of graph databases and also data management problems with IoT devices. I present and discuss these two related articles and elaborate more on some of the ideas presented in these articles.
 
-Welcome! Your writing assignment will be in this file.  See [the instructions](./instructions.md) for more details.
+## Article 1: Graph Databases: Updates on Their Growing Popularity
+In Dataversity’s [Graph Databases: Updates on Their Growing Popularity](https://www.dataversity.net/graph-databases-updates-on-their-growing-popularity/#), Keith Foote discusses the growing popularity of graph databases due to their advantages over traditional databases such as SQL. Previously graph databases were unpopular in business because they were seen to be complicated, time-consuming and not user-friendly. Over the years, as Machine Learning and Artificial intelligence became popular, businesses realised it wasn’t just about collecting data points anymore, but connecting relationships that exist between data points. 
+
+I think databases have outgrown their traditional functions ie. storing and retrieving data. With the recent increase in data points on the internet, it has become necessary for databases to allow meanings to be derived from these data points. Businesses want to establish relationships between data which is expensive and time-consuming in relational databases. The flexibility of graph databases allows new relationships to be formed between old and new data points. However, accomplishing the same thing in relational databases would require their schema to be expanded and creating time-consuming and expensive joins. 
+
+Over the years, I see graph databases becoming more popular in the industry because of their interoperability with Machine Learning and Artificial Intelligence. Graph technology can connect data and define relationships which provides an effective method of training sophisticated AI and ML applications. 
+As AI and ML become more and more popular businesses will have to shift to graph database technologies to help them form and create relationships. I think the friendliness between graph technology and AI and ML will take us towards a future where graph databases will become more popular.
+
+
+
+## Article 2: Data Management and the Internet of Things
+We are in a data-driven world. When you realise that the number of bytes of data produced per day is more than three times the number of grains of sand on earth, you tend to question the amount of data businesses have on individuals. In this article [Data Management and the Internet of Things](https://www.dataversity.net/data-management-internet-things/) Amber Lee discusses a proactive approach to the management of data in businesses. He emphasizes the need for a coherent and effective Data Architecture that aligns with business strategy. 
+Decisions on how to manage data assets should not be left to only the IT professionals, but rather should be a firmwide thing. 
+
+The billions of devices using internet technology to send large volumes and varieties of data have made it more difficult to manage data. Unlike human data, working with Internet of Things(IoT) data requires a shorter time span to work with. This poses Data Management challenges such as agility, scalability and security. With the fast transfer of large chunks of data, it becomes difficult to filter data as more irrelevant information slips through for processing. 
+
+The article provides edge computing, Data Governance and Metadata Management as some solutions to this problem. Inasmuch As I agree with these strategies and solutions I think more control should be given to the consumers in defining access to information rather than leaving it in the hands of National regulations. This is because oftentimes, the appropriate data needed by the IoT device to function can not be accessed due to regulations. Unlike human data, IoT data is used to make the best decisions for the consumer and protect them(in the case of autonomous cars). Consumers know what they want from their IoT devices and giving them the control of the data they want to be used will satisfy their interests. Of course, consumer education on how to effectively govern individual data must be made paramount to ensure that consumers are only authorizing the use of necessary information.
+
